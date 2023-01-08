@@ -3,19 +3,21 @@
 # backend
 /be/node_modules
 /be/build
+/be/.env
 
 # frontend
 /fe/node_modules
+/fe/.env
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /fe//node_modules
-/fe//.pnp
+/fe/.pnp
 /fe/.pnp.js
 
 # testing
-/fe//coverage
+/fe/coverage
 
 # next.js
 /fe/.next/
